@@ -9,13 +9,15 @@ I got interested in testing in my current job when I was asked to test new funct
 
 ## Tech Stack
 
-* ISTQB: Foundation Level (No 15625/CTFL/2021)
 * Databases: MySQL
 * Languages: Java
 * Testing: Selenium, JUnit, Postman, CSS Selectors, XPATH
 * Version Control Systems: Git
 * CI: Jenkins
 * Other tools: JIRA.
+
+## Certificates
+* ISTQB: Foundation Level (No 15625/CTFL/2021)
 
 ## Courses 
 
