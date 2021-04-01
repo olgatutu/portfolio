@@ -7,7 +7,7 @@ My name is Olga Tuturusz. I am a beginner manual & automation tester.
 I got interested in testing in my current job when I was asked to test new functionalities of a program created for internal needs of my company. Since then I have been deepening my knowledge and looking for opportunities to work as a junior tester.
 
 
-## Tech Stack
+:green_circle: ## Tech Stack
 
 * ISTQB: Foundation Level (No 15625/CTFL/2021)
 * Databases: MySQL
