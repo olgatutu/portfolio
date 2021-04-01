@@ -19,7 +19,7 @@ I got interested in testing in my current job when I was asked to test new funct
 
 ## Courses 
 
-* [Software Development Academy - Automation Tester in Java] (https://app.diplomasafe.com/pl-PL/diploma/d522d1ac623e901c0c73a7d4ce6b732b67b0055a3/tester-automatyzujacy)
+* [Software Development Academy - Automation Tester in Java](https://app.diplomasafe.com/pl-PL/diploma/d522d1ac623e901c0c73a7d4ce6b732b67b0055a3/tester-automatyzujacy)
 
 
 ## Technical Books read
