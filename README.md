@@ -7,7 +7,7 @@ My name is Olga Tuturusz. I am a beginner manual & automation tester.
 I got interested in testing in my current job when I was asked to test new functionalities of a program created for internal needs of my company. Since then I have been deepening my knowledge and looking for opportunities to work as a junior tester.
 
 
-:green_circle: ## Tech Stack
+## Tech Stack
 
 * ISTQB: Foundation Level (No 15625/CTFL/2021)
 * Databases: MySQL
@@ -29,9 +29,16 @@ I got interested in testing in my current job when I was asked to test new funct
 
 ## Groups for knowledge gathering
 
-[Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/215557562210470/?ref=group_header)
-[Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610/?ref=group_header)
-[Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
-[Grupa ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242/)
+* [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/215557562210470/?ref=group_header)
+* [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610/?ref=group_header)
+* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
+* [Grupa ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242/)
 
+
+## My test case examples
+* [Test cases for search engine (elhurt.com.pl)](https://docs.google.com/spreadsheets/d/1l-7KQ7DCSfU0xckbJtpskfNtRdYC9q6PLPL5ZBwpExY/edit#gid=0)
+
+## Selenium WebDriver, regression tests
+* [Test of cart (fakestore.testelka.pl)(https://github.com/olgatutu/FakestoreCartTesting)
+* [Logging tests (saucedemo.com)](https://github.com/olgatutu/SauceDemoLogIn)
 
