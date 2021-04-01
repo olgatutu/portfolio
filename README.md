@@ -1,5 +1,5 @@
-# portfolio
-My Tester's Portfolio
+# Portfolio
+My Tester's Portfolio in progress :open_file_folder:
 
 ## About me
 
@@ -27,6 +27,7 @@ I got interested in testing in my current job when I was asked to test new funct
 ## Technical Books read
 
 * "Zawód tester" Radosław Smilgin
+* "Myśl w języku Java! Nauka programowania" Allen B.Downey, Chris Mayfield
 
 
 ## Groups for knowledge gathering
