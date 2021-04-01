@@ -39,6 +39,6 @@ I got interested in testing in my current job when I was asked to test new funct
 * [Test cases for search engine (elhurt.com.pl)](https://docs.google.com/spreadsheets/d/1l-7KQ7DCSfU0xckbJtpskfNtRdYC9q6PLPL5ZBwpExY/edit#gid=0)
 
 ## Selenium WebDriver, regression tests
-* [Test of cart (fakestore.testelka.pl)(https://github.com/olgatutu/FakestoreCartTesting)
+* [Test of cart (fakestore.testelka.pl)](https://github.com/olgatutu/FakestoreCartTesting)
 * [Logging tests (saucedemo.com)](https://github.com/olgatutu/SauceDemoLogIn)
 
